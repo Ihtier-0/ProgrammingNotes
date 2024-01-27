@@ -2,9 +2,10 @@
 1. [cpp](#cpp)
     1. [template](#template)
     2. [cpp_debug](#cpp_debug)
-2. [graphics](#graphics)
+2. [haskell](#haskell)
+3. [graphics](#graphics)
     1. [graphics_debug](#graphics_debug)
-3. [tools](#tool)
+4. [tools](#tool)
 
 # cpp
 
@@ -17,6 +18,11 @@
 
 [GFlags enable standard page heap verification](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags-and-pageheap)</br>
 [GDB](https://www.sourceware.org/gdb/)</br>
+
+# haskell
+
+[Learn Haskell Fast and Hard](https://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)</br>
+[Learn You a Haskell for Great Good!](https://learnyouahaskell.com)</br>
 
 # graphics
 
