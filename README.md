@@ -5,6 +5,7 @@
 2. [haskell](#haskell)
 3. [graphics](#graphics)
     1. [graphics_debug](#graphics_debug)
+    2. [shaders](#shaders)
 4. [tools](#tool)
 
 # cpp
@@ -31,6 +32,12 @@
 [RenderDoc](https://renderdoc.org)</br>
 [gDEBugger](https://web.archive.org/web/20160510092504/http://www.gremedy.com/download.php)</br>
 [NVIDIA Nsight Graphics](https://developer.nvidia.com/nsight-graphics)</br>
+
+## shaders
+
+[The Book of Shaders](https://thebookofshaders.com)</br>
+[Inigo Quilez](https://iquilezles.org)</br>
+[Shadertoy](https://www.shadertoy.com)</br>
 
 # tools
 
