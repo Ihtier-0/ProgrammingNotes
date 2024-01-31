@@ -7,7 +7,7 @@
     1. [graphics_debug](#graphics_debug)
     2. [shaders](#shaders)
 4. [tools](#tool)
-5. [patterns](#pattern)
+5. [patterns](#patterns)
 
 # cpp
 
@@ -45,7 +45,7 @@
 [Process Hacker](https://processhacker.sourceforge.io)</br>
 [API Monitor](http://www.rohitab.com/downloads)</br>
 
-# pattern
+# patterns
 
 [GoF](https://en.wikipedia.org/wiki/Design_Patterns)</br>
 [Game Programming Patterns](https://gameprogrammingpatterns.com)</br>
