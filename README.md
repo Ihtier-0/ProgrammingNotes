@@ -44,6 +44,8 @@
 
 [Process Hacker](https://processhacker.sourceforge.io)</br>
 [API Monitor](http://www.rohitab.com/downloads)</br>
+[Visual Studio Profiling](https://learn.microsoft.com/en-us/visualstudio/profiling/cpu-usage?view=vs-2022)</br>
+[GammaRay (introspection tool for Qt applications)](https://github.com/KDAB/GammaRay)</br>
 
 # patterns
 
