@@ -6,7 +6,7 @@
 3. [graphics](#graphics)
     1. [graphics_debug](#graphics_debug)
     2. [shaders](#shaders)
-4. [tools](#tool)
+4. [tools](#tools)
 5. [patterns](#patterns)
 
 # cpp
