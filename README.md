@@ -8,6 +8,8 @@
     2. [shaders](#shaders)
 4. [tools](#tools)
 5. [patterns](#patterns)
+6. [git](#git)
+7. [github](#github)
 
 # cpp
 
@@ -51,3 +53,11 @@
 
 [GoF](https://en.wikipedia.org/wiki/Design_Patterns)</br>
 [Game Programming Patterns](https://gameprogrammingpatterns.com)</br>
+
+# git
+
+[git bisect](https://git-scm.com/docs/git-bisect)</br>
+
+# github
+
+[Github actions: basic concepts](https://cakeinpanic.medium.com/github-actions-%D0%B1%D0%B0%D0%B7%D0%B0-2501445e7392)</br>
