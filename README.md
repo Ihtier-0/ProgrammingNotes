@@ -10,6 +10,7 @@
 5. [patterns](#patterns)
 6. [git](#git)
 7. [github](#github)
+8. [3d_application](#3d_application)
 
 # cpp
 
@@ -61,3 +62,17 @@
 # github
 
 [Github actions: basic concepts](https://cakeinpanic.medium.com/github-actions-%D0%B1%D0%B0%D0%B7%D0%B0-2501445e7392)</br>
+
+# 3d_application
+
+[Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription)</br>
+[Katana](https://www.foundry.com/products/katana)</br>
+[Blender](https://www.blender.org)</br>
+[Houdini](https://www.sidefx.com/products/houdini)</br>
+[Open 3D Engine](https://github.com/o3de/o3de)</br>
+[Gaffer](https://www.gafferhq.org)</br>
+[3ds Max](https://www.autodesk.com/products/3ds-max/overview)</br>
+[NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse)</br>
+[Unity](https://unity.com)</br>
+[Wizart DCC Platform](https://wizartsoft.com)</br>
+[Products Using USD](https://openusd.org/release/usd_products.html)</br>
