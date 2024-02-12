@@ -74,5 +74,6 @@
 [3ds Max](https://www.autodesk.com/products/3ds-max/overview)</br>
 [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse)</br>
 [Unity](https://unity.com)</br>
+[Toon Boom Harmony](https://www.toonboom.com/products/harmony)</br>
 [Wizart DCC Platform](https://wizartsoft.com)</br>
 [Products Using USD](https://openusd.org/release/usd_products.html)</br>
