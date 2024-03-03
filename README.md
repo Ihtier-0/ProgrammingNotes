@@ -12,6 +12,7 @@
 7. [github](#github)
 8. [3d_application](#3d_application)
 9. [rendering](#rendering)
+10. [papers](#papers)
 
 # cpp
 
@@ -89,3 +90,13 @@
 [Octane](https://home.otoy.com/render/octane-render/)</br>
 [Corona](https://corona-renderer.com)</br>
 [Redshift](https://www.maxon.net/en/redshift)</br>
+
+# papers
+
+[Pixar](https://graphics.pixar.com/library/index.html)</br>
+[arXiv](https://arxiv.org)</br>
+[Facebook](https://research.facebook.com/publications/)</br>
+[Nvidia](https://research.nvidia.com/publications)</br>
+[Nvidia VRWorks Graphics](https://developer.nvidia.com/vrworks)</br>
+[Nvidia Developer](https://developer.nvidia.com)</br>
+[Valve](https://www.valvesoftware.com/en/publications)</br>
