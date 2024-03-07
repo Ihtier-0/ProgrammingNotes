@@ -13,6 +13,7 @@
 8. [3d_application](#3d_application)
 9. [rendering](#rendering)
 10. [papers](#papers)
+11. [demoscene](#demoscene)
 
 # cpp
 
@@ -100,3 +101,9 @@
 [Nvidia VRWorks Graphics](https://developer.nvidia.com/vrworks)</br>
 [Nvidia Developer](https://developer.nvidia.com)</br>
 [Valve](https://www.valvesoftware.com/en/publications)</br>
+
+# demoscene
+
+[pouët](https://www.pouet.net)</br>
+[Shadertoy](https://www.shadertoy.com)</br>
+[Inigo Quilez](https://iquilezles.org)</br>
