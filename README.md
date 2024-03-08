@@ -70,6 +70,7 @@
 
 [Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription)</br>
 [Katana](https://www.foundry.com/products/katana)</br>
+[Nuke](https://www.foundry.com/products/nuke-family/nuke)</br>
 [Blender](https://www.blender.org)</br>
 [Houdini](https://www.sidefx.com/products/houdini)</br>
 [Open 3D Engine](https://github.com/o3de/o3de)</br>
@@ -107,3 +108,4 @@
 [pouët](https://www.pouet.net)</br>
 [Shadertoy](https://www.shadertoy.com)</br>
 [Inigo Quilez](https://iquilezles.org)</br>
+[The Book of Shaders](https://thebookofshaders.com)</br>
