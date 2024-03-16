@@ -92,6 +92,7 @@
 [Octane](https://home.otoy.com/render/octane-render/)</br>
 [Corona](https://corona-renderer.com)</br>
 [Redshift](https://www.maxon.net/en/redshift)</br>
+[ActorCore](https://actorcore.reallusion.com)</br>
 
 # papers
 
