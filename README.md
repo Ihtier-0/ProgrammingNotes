@@ -39,6 +39,8 @@
 [RenderDoc](https://renderdoc.org)</br>
 [gDEBugger](https://web.archive.org/web/20160510092504/http://www.gremedy.com/download.php)</br>
 [NVIDIA Nsight Graphics](https://developer.nvidia.com/nsight-graphics)</br>
+[GPU Extensions Viewer](https://www.realtech-vr.com/home/?page_id=142)</br>
+[PIX](https://devblogs.microsoft.com/pix/)</br>
 
 ## shaders
 
@@ -81,6 +83,8 @@
 [Toon Boom Harmony](https://www.toonboom.com/products/harmony)</br>
 [Wizart DCC Platform](https://wizartsoft.com)</br>
 [Products Using USD](https://openusd.org/release/usd_products.html)</br>
+[Rive](https://rive.app)</br>
+[Moho Animation](https://moho.lostmarble.com)</br>
 
 # rendering
 
@@ -93,6 +97,7 @@
 [Corona](https://corona-renderer.com)</br>
 [Redshift](https://www.maxon.net/en/redshift)</br>
 [ActorCore](https://actorcore.reallusion.com)</br>
+[3DelightNSI](https://www.3delight.com)</br>
 
 # papers
 
