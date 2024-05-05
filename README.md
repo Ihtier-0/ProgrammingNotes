@@ -27,6 +27,10 @@
 [GFlags enable standard page heap verification](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags-and-pageheap)</br>
 [GDB](https://www.sourceware.org/gdb/)</br>
 
+## idioms
+
+[Tag Dispatching](https://www.fluentcpp.com/2018/04/27/tag-dispatching/)</br>
+
 # haskell
 
 [Learn Haskell Fast and Hard](https://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)</br>
